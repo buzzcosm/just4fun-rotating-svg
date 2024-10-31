@@ -6,4 +6,4 @@
 
 > Used only `html` and `css`.
 
-✨ Just hover over 👉 [Z]() ᥫ᭡.
+✨ Just hover over 👉 [Z](https://buzzcosm.github.io/just4fun-rotating-svg/) ᥫ᭡.
